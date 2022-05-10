@@ -1,0 +1,8 @@
+source,target,step,value
+source1,f,1,50
+source2,f,1,50
+f,l,2,50
+f,loss,2,50
+l,w,3,30
+l,a,3,10
+l,loss,3,10
